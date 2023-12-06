@@ -14,7 +14,7 @@ Get started with **Your React App** quickly.
 
 ## Installation
 
-```bash
+```
 git clone https://github.com/your-username/your-react-app.git
 cd your-react-app
 npm install
@@ -22,7 +22,7 @@ npm install
 
 ## Run
 
-```bash
+```
 npm start
 ```
 
@@ -30,7 +30,7 @@ Visit [http://localhost:3000](http://localhost:3000).
 
 ## Build
 
-```bash
+```
 npm run build
 ```
 
