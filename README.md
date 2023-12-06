@@ -1,6 +1,6 @@
 # todo-app-react
 
-Certainly! Here's a shorter version:
+
 
 ```markdown
 # Your React App
